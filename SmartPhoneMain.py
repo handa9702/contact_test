@@ -1,6 +1,6 @@
 # SmartPhoneMain.py
 
-from SmartPhonee import SmartPhone
+from SmartPhone import SmartPhone
 
 class SmartPhoneMain:
     def __init__(self):
